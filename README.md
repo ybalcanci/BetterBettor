@@ -1,6 +1,6 @@
 # BetterBettor
 # CS 353 Project - Social Betting Platform
-Group Members:
+Group 17 Members:
 
 Burak Yaşar<br/>
 Nurefşan Müsevitoğlu<br/>
