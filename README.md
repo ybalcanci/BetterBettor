@@ -2,10 +2,7 @@
 # CS 353 Project - Social Betting Platform
 Group Members:
 
-Burak Yaşar
-
-Nurefşan Müsevitoğlu
-
-Faruk Şimşekli
-
+Burak Yaşar<br/>
+Nurefşan Müsevitoğlu<br/>
+Faruk Şimşekli<br/>
 Yasin Balcancı
