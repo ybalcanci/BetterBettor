@@ -4,7 +4,7 @@ BetterBettor is a web-based application for betting football and basketball game
 
 
 Running on: [BetterBettor](http://dijkstra.cs.bilkent.edu.tr/~n.musevitoglu/).
-Group Members:
+<br/>Group Members:
 
 [Burak Yaşar](https://github.com/byburakyasar)<br/>
 [Faruk Şimşekli](https://github.com/faruksimsekli)<br/>
